@@ -42,7 +42,7 @@ export const divisions: Division[] = [
     id: "suddenflight",
     name: "Sudden Flight Records",
     tagline: "Independent Music & Production",
-    url: "https://suddenflight.com",
+    url: "https://suddenflightrecords.com",
     accentColor: "#c47a5a", // Warm copper
     vibe: "Vinyl-meets-future, warm but edgy",
     gifUrl: "https://res.cloudinary.com/diduw1fmf/image/upload/v1772088713/ezgif.com-video-to-gif-converter_ev4sae.gif",
